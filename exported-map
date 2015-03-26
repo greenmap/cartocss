@@ -1,0 +1,56 @@
+/** Primary Term visualization */
+/** Note: This is work in progress. Not all icons are included, and the storage location of the icons will change in the final version */
+
+#greenmap {
+   marker-fill-opacity: 0.9;
+   marker-line-color: #FFF;
+   marker-line-width: 1.5;
+   marker-line-opacity: 1;
+   marker-placement: point;
+   marker-type: ellipse;
+   marker-width: 10;
+   marker-allow-overlap: true;
+}
+
+#greenmap[primary_term="Community Garden"] {
+   marker-fill: #A6CEE3;
+}
+
+#greenmap[primary_term="School"] {
+   marker-fill: #1F78B4;
+}
+
+#greenmap[primary_term="Composting Site"] {
+   marker-fill: #B2DF8A;
+}
+
+#greenmap[primary_term="Significant Organization/Agency"] {
+   marker-fill: #33A02C;
+}
+
+#greenmap[primary_term="Place of Worship"] {
+   marker-fill: #FB9A99;
+}
+
+#greenmap[primary_term="Waterfront/Riverside Park"] {
+   marker-fill: #E31A1C;
+}
+#greenmap[primary_term="Park/Recreation Area"] {
+   marker-fill: #FDBF6F;
+}
+
+#greenmap[primary_term="Organic/Local Food"] {
+   marker-fill: #FF7F00;
+}
+
+#greenmap[primary_term="Farmers/Local Market"] {
+   marker-fill: #CAB2D6;
+}
+
+#greenmap[primary_term="Garden"] {
+   marker-fill: #6A3D9A;
+}
+
+#greenmap {
+   marker-fill: #DDDDDD;
+}
