@@ -2,53 +2,54 @@
 /** Note: This is work in progress. Not all icons are included, and the storage location of the icons will change in the final version */
 
 #greenmap {
-   marker-fill-opacity: 0.9;
+   marker-fill-opacity: 1;
    marker-line-color: #FFF;
-   marker-line-width: 1.5;
+   marker-line-width: 0;
    marker-line-opacity: 1;
    marker-placement: point;
    marker-type: ellipse;
-   marker-width: 10;
+   marker-width: 21;
    marker-allow-overlap: true;
 }
 
 #greenmap[primary_term="Community Garden"] {
-   marker-fill: #A6CEE3;
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/communitygarden.png);
 }
 
 #greenmap[primary_term="School"] {
-   marker-fill: #1F78B4;
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/school.png);
 }
 
 #greenmap[primary_term="Composting Site"] {
-   marker-fill: #B2DF8A;
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/compostingsite.png);
 }
 
 #greenmap[primary_term="Significant Organization/Agency"] {
-   marker-fill: #33A02C;
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/significantorganizationagency.png);
 }
 
 #greenmap[primary_term="Place of Worship"] {
-   marker-fill: #FB9A99;
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/placeofworship.png);
 }
 
 #greenmap[primary_term="Waterfront/Riverside Park"] {
-   marker-fill: #E31A1C;
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/waterfrontriversidepark.png);
 }
+
 #greenmap[primary_term="Park/Recreation Area"] {
-   marker-fill: #FDBF6F;
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/parkrecreationarea.png);
 }
 
 #greenmap[primary_term="Organic/Local Food"] {
-   marker-fill: #FF7F00;
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/organiclocalfood.png);
 }
 
 #greenmap[primary_term="Farmers/Local Market"] {
-   marker-fill: #CAB2D6;
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/farmerslocalmarket.png);
 }
 
 #greenmap[primary_term="Garden"] {
-   marker-fill: #6A3D9A;
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/garden.png);
 }
 
 #greenmap {
