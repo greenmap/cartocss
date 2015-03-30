@@ -148,6 +148,60 @@
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/greencleaning.png);
 }
 
+/****** Mobility ********/
+
+#greenmap[primary_term="Bicycle Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/bicyclesite.png);
+}
+
+#greenmap[primary_term="Bicycle Path <"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/bicyclepathwest.png);
+}
+
+#greenmap[primary_term="Bicycle Path >"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/bicyclepatheast.png);
+}
+
+#greenmap[primary_term="Bicycle Parking"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/bicycleparking.png);
+}
+
+#greenmap[primary_term="Pedestrian Friendly"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/pedestrianfriendly.png);
+}
+
+#greenmap[primary_term="Wheelchair Accessible"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/wheelchairaccessible.png);
+}
+
+#greenmap[primary_term="Public/Mass Transportation"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/publicmasstransportation.png);
+}
+
+#greenmap[primary_term="Light Rail/Bus Rapid Transit"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/lightrailbusrapidtransit.png);
+}
+
+#greenmap[primary_term="Water Transport"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/watertransport.png);
+}
+
+#greenmap[primary_term="Alternative Fuel/Vehicles"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/alternativefuelvehicles.png);
+}
+
+#greenmap[primary_term="Park 'N Ride Facility"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/parknridefacility.png);
+}
+
+#greenmap[primary_term="Traffic Hazard"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/traffichazard.png);
+}
+
+#greenmap[primary_term="Caution Zone"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/cautionzone.png);
+}
+
 /** Placeholder **/
 
 #greenmap[primary_term=""] {
