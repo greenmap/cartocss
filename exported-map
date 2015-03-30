@@ -326,6 +326,44 @@
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/shadedboulevard.png);
 }
 
+/****** Flora ********/
+
+#greenmap[primary_term="Public Forest/Natural Area"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/publicforestnaturalarea.png);
+}
+
+#greenmap[primary_term="Special Tree"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/specialtree.png);
+}
+
+#greenmap[primary_term="Native Forests/Plants"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/nativeforestsplants.png);
+}
+
+#greenmap[primary_term="Garden"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/garden.png);
+}
+
+#greenmap[primary_term="Community Garden"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/communitygarden.png);
+}
+
+#greenmap[primary_term="Spring Blossoms"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/springblossoms.png);
+}
+
+#greenmap[primary_term="Autumn Leaves"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/autumnleaves.png);
+}
+
+#greenmap[primary_term="Rapidly Renewable Plants"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/rapidlyrenewableplants.png);
+}
+
+#greenmap[primary_term="Food Gathering Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/foodgatheringsite.png);
+}
+
 /** Placeholder **/
 
 #greenmap[primary_term=""] {
