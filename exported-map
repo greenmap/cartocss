@@ -472,6 +472,87 @@
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/stargazingsite.png);
 }
 
+/*****************************
+** Culture and Society *******
+******************************/
+
+/****** Cultural Character ********/
+
+#greenmap[primary_term="Cultural Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/culturalsite.png);
+}
+
+#greenmap[primary_term="Museum"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/museum.png);
+}
+
+#greenmap[primary_term="Art Spot"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/artspot.png);
+}
+
+#greenmap[primary_term="Cultural Performance"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/culturalperformance.png);
+}
+
+#greenmap[primary_term="Local Music"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/localmusic.png);
+}
+
+#greenmap[primary_term="Lively Spot"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/livelyspot.png);
+}
+
+#greenmap[primary_term="Artisan/Art Studio"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/artisanartstudio.png);
+}
+
+#greenmap[primary_term="Traditional Way of Life"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/traditionalwayoflife.png);
+}
+
+#greenmap[primary_term="Historical Feature"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/historicalfeature.png);
+}
+
+#greenmap[primary_term="Archaeological Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/archaeologicalsite.png);
+}
+
+#greenmap[primary_term="Traditional Neighborhood"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/traditionalneighborhood.png);
+}
+
+#greenmap[primary_term="Diverse Neighborhood"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/diverseneighborhood.png);
+}
+
+#greenmap[primary_term="Community Center"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/communitycenter.png);
+}
+
+#greenmap[primary_term="Child Friendly Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/childfriendlysite.png);
+}
+
+#greenmap[primary_term="Senior Friendly Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/seniorfriendlysite.png);
+}
+
+#greenmap[primary_term="Eco-Spiritual Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/ecospiritualsite.png);
+}
+
+#greenmap[primary_term="Green by Design"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/greenbydesign.png);
+}
+
+#greenmap[primary_term="Alternative Health Resource"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/alternativehealthresource.png);
+}
+
+#greenmap[primary_term="Memorial/Site of Conscience"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/memorialsiteofconscience.png);
+}
 
 
 /** Placeholder **/
