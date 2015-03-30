@@ -12,6 +12,91 @@
    marker-allow-overlap: true;
 }
 
+/******************************
+** Sustainable Living *********
+******************************/
+
+/****** Green Economy ********/
+
+#greenmap[primary_term="Farmers/Local Market"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/farmerslocalmarket.png);
+}
+
+#greenmap[primary_term="Healthy Dining"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/healthydining.png);
+}
+
+#greenmap[primary_term="Eco-Agriculture/Permaculture"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/ecoagriculturepermaculture.png);
+}
+
+#greenmap[primary_term="Organic/Local Food"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/organiclocalfood.png);
+}
+
+#greenmap[primary_term="Eco-Products"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/ecoproducts.png);
+}
+
+#greenmap[primary_term="Green Enterprise"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/greenenterprise.png);
+}
+
+#greenmap[primary_term="Green Store"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/greenstore.png);
+}
+
+#greenmap[primary_term="Local Business"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/localbusiness.png);
+}
+
+#greenmap[primary_term="Reuse Shop/Market"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/reuseshopmarket.png);
+}
+
+#greenmap[primary_term="Fair Trade"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/fairtrade.png);
+}
+
+#greenmap[primary_term="Responsible Company"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/responsiblecompany.png);
+}
+
+#greenmap[primary_term="Social Enterprise"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/socialenterprise.png);
+}
+
+#greenmap[primary_term="Ecotourism Resource"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/ecotourismresource.png);
+}
+
+#greenmap[primary_term="Reuse"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/reuse.png);
+}
+
+#greenmap[primary_term="Recycling"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/recycling.png);
+}
+
+#greenmap[primary_term="Rental/Share"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/rentalshare.png);
+}
+
+#greenmap[primary_term="Repair Shop"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/repairshop.png);
+}
+
+/****** Technology and Design ********/
+
+
+/** Placeholder **/
+
+#greenmap[primary_term=""] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/.png);
+}
+
+/** Below here is the original set from the Compost Map **/
+
 #greenmap[primary_term="Community Garden"] {
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/communitygarden.png);
 }
