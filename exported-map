@@ -1,5 +1,5 @@
 /** Primary Term visualization */
-/** Note: This is work in progress. Not all icons are included, and the storage location of the icons will change in the final version */
+/** Note: This is work in progress. The storage location of the icons will change in the final version */
 
 #greenmap {
    marker-fill-opacity: 1;
@@ -665,7 +665,7 @@
 /****** Public Works and Landmarks ********/
 
 #greenmap[primary_term="Waste Water Treament Plant"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/wastewatertreamentplant.png);
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/wastewatertreatmentplant.png);
 }
 
 #greenmap[primary_term="Energy Infrastructure"] {
@@ -673,7 +673,7 @@
 }
 
 #greenmap[primary_term="Solid Waste Transfer Station"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/solidwastetransfertation.png);
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/solidwastetransferstation.png);
 }
 
 #greenmap[primary_term="Landfill"] {
