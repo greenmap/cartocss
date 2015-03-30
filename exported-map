@@ -604,6 +604,64 @@
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/appointmentneeded.png);
 }
 
+/****** Justice and Activism ********/
+
+#greenmap[primary_term="Eco-Justice Organization"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/ecojusticeorganization.png);
+}
+
+#greenmap[primary_term="Eco Club/Organization"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/ecocluborganization.png);
+}
+
+#greenmap[primary_term="Significant Organization/Agency"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/significantorganizationagency.png);
+}
+
+#greenmap[primary_term="Volunteer Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/volunteersite.png);
+}
+
+#greenmap[primary_term="Eco Expert"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/ecoexpert.png);
+}
+
+#greenmap[primary_term="Social Service"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/socialservice.png);
+}
+
+#greenmap[primary_term="Food Bank"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/foodbank.png);
+}
+
+#greenmap[primary_term="Vote Here"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/votehere.png);
+}
+
+#greenmap[primary_term="Free Speech Zone"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/freespeechzone.png);
+}
+
+#greenmap[primary_term="Poor Labor Practice"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/poorlaborpractice.png);
+}
+
+#greenmap[primary_term="Unsustainable Land Use"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/unsustainablelanduse.png);
+}
+
+#greenmap[primary_term="Gentrification"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/gentrification.png);
+}
+
+#greenmap[primary_term="Shanty Town"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/shantytown.png);
+}
+
+#greenmap[primary_term="Refugee Area"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/refugeearea.png);
+}
+
 
 /** Placeholder **/
 
