@@ -364,6 +364,56 @@
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/foodgatheringsite.png);
 }
 
+/****** Fauna ********/
+
+#greenmap[primary_term="Significant Habitat"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/significanthabitat.png);
+}
+
+#greenmap[primary_term="Wildlife Habitat"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/wildlifehabitat.png);
+}
+
+#greenmap[primary_term="Amphibian Habitat"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/amphibianhabitat.png);
+}
+
+#greenmap[primary_term="Coastal Habitat"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/coastalhabitat.png);
+}
+
+#greenmap[primary_term="Aquatic Habitat"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/aquatichabitat.png);
+}
+
+#greenmap[primary_term="Wildlife Center/Zoo"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/wildlifecenterzoo.png);
+}
+
+#greenmap[primary_term="Protected/Cultivated Habitat"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/protectedcultivatedhabitat.png);
+}
+
+#greenmap[primary_term="Insect Watching Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/insectwatchingsite.png);
+}
+
+#greenmap[primary_term="Bird and Wildlife Watching"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/birdandwildlifewatching.png);
+}
+
+#greenmap[primary_term="Duck Pond"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/duckpond.png);
+}
+
+#greenmap[primary_term="Farm Animals"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/farmanimals.png);
+}
+
+#greenmap[primary_term="Migration Zone"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/migrationzone.png);
+}
+
 /** Placeholder **/
 
 #greenmap[primary_term=""] {
