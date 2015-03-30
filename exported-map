@@ -662,57 +662,70 @@
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/refugeearea.png);
 }
 
+/****** Public Works and Landmarks ********/
 
-/** Placeholder **/
-
-#greenmap[primary_term=""] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/.png);
+#greenmap[primary_term="Waste Water Treament Plant"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/wastewatertreamentplant.png);
 }
 
-#greenmap[primary_term=""] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/.png);
+#greenmap[primary_term="Energy Infrastructure"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/energyinfrastructure.png);
 }
 
-/** Below here is the original set from the Compost Map **/
+#greenmap[primary_term="Solid Waste Transfer Station"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/solidwastetransfertation.png);
+}
 
-#greenmap[primary_term="Community Garden"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/communitygarden.png);
+#greenmap[primary_term="Landfill"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/landfill.png);
+}
+
+#greenmap[primary_term="Incinerator"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/incinerator.png);
+}
+
+#greenmap[primary_term="Government Office"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/governmentoffice.png);
+}
+
+#greenmap[primary_term="Hospital"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/hospital.png);
 }
 
 #greenmap[primary_term="School"] {
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/school.png);
 }
 
-#greenmap[primary_term="Composting Site"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/compostingsite.png);
-}
-
-#greenmap[primary_term="Significant Organization/Agency"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/significantorganizationagency.png);
-}
-
 #greenmap[primary_term="Place of Worship"] {
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/placeofworship.png);
 }
 
-#greenmap[primary_term="Waterfront/Riverside Park"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/waterfrontriversidepark.png);
+#greenmap[primary_term="Cemetery"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/cemetery.png);
 }
 
-#greenmap[primary_term="Park/Recreation Area"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/parkrecreationarea.png);
+#greenmap[primary_term="Information Kiosk"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/informationkiosk.png);
 }
 
-#greenmap[primary_term="Organic/Local Food"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/organiclocalfood.png);
+#greenmap[primary_term="Landmark Dining/Pub"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/landmarkdiningpub.png);
 }
 
-#greenmap[primary_term="Farmers/Local Market"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/farmerslocalmarket.png);
+#greenmap[primary_term="WC/Public Restroom"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/wcpublicrestroom.png);
 }
 
-#greenmap[primary_term="Garden"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/garden.png);
+#greenmap[primary_term="Prison/Detention Center"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/prisondetentioncenter.png);
+}
+
+#greenmap[primary_term="Military Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/militarysite.png);
+}
+
+#greenmap[primary_term="Landmark"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/landmark.png);
 }
 
 #greenmap {
