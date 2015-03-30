@@ -337,7 +337,7 @@
 }
 
 #greenmap[primary_term="Native Forests/Plants"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/nativeforestsplants.png);
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/nativeforestplants.png);
 }
 
 #greenmap[primary_term="Garden"] {
