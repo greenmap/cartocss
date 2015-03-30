@@ -88,6 +88,65 @@
 
 /****** Technology and Design ********/
 
+#greenmap[primary_term="Solar Energy Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/solarenergysite.png);
+}
+
+#greenmap[primary_term="Wind Energy Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/windenergysite.png);
+}
+
+#greenmap[primary_term="Water Energy Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/waterenergysite.png);
+}
+
+#greenmap[primary_term="Water Recycling"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/waterrecycling.png);
+}
+
+#greenmap[primary_term="Geothermal/Ground Heat Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/geothermalgroundheatsite.png);
+}
+
+#greenmap[primary_term="Green Building"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/greenbuilding.png);
+}
+
+#greenmap[primary_term="Green Roof"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/greenroof.png);
+}
+
+#greenmap[primary_term="Self-Built House"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/selfbuilthouse.png);
+}
+
+#greenmap[primary_term="Composting Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/compostingsite.png);
+}
+
+#greenmap[primary_term="Scientific Research Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/scientificresearchsite.png);
+}
+
+#greenmap[primary_term="Green Technology"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/greentechnology.png);
+}
+
+#greenmap[primary_term="Greenhouse Gas Reduction"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/greenhousegasreduction.png);
+}
+
+#greenmap[primary_term="Energy Conservation"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/energyconservation.png);
+}
+
+#greenmap[primary_term="Paper Reduction Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/paperreductionsite.png);
+}
+
+#greenmap[primary_term="Green Cleaning"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/greencleaning.png);
+}
 
 /** Placeholder **/
 
