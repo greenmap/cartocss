@@ -414,7 +414,71 @@
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/migrationzone.png);
 }
 
+/****** Outdoor Activities ********/
+
+#greenmap[primary_term="Park/Recreation Area"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/parkrecreationarea.png);
+}
+
+#greenmap[primary_term="Public Space/Square"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/publicspacesquare.png);
+}
+
+#greenmap[primary_term="Sport Site/Play with Nature"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/sportsiteplaywithnature.png);
+}
+
+#greenmap[primary_term="Eco-Tour/Nature Walk"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/ecotournaturewalk.png);
+}
+
+#greenmap[primary_term="Swimming"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/swimming.png);
+}
+
+#greenmap[primary_term="Canoe/Kayak Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/canoekayaksite.png);
+}
+
+#greenmap[primary_term="Sailing/Row Boat Launch"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/sailingrowboatlaunch.png);
+}
+
+#greenmap[primary_term="Skateboard Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/skateboardsite.png);
+}
+
+#greenmap[primary_term="Dog Run"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/dogrun.png);
+}
+
+#greenmap[primary_term="Snow Activity Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/snowactivitysite.png);
+}
+
+#greenmap[primary_term="Camping"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/camping.png);
+}
+
+#greenmap[primary_term="Scenic Vista"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/scenicvista.png);
+}
+
+#greenmap[primary_term="Sunrise/Sunset Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/sunrisesunsetsite.png);
+}
+
+#greenmap[primary_term="Star Gazing Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/stargazingsite.png);
+}
+
+
+
 /** Placeholder **/
+
+#greenmap[primary_term=""] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/.png);
+}
 
 #greenmap[primary_term=""] {
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/.png);
