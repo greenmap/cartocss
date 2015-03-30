@@ -276,6 +276,56 @@
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/miningsite.png);
 }
 
+/******************************
+** Nature            *********
+******************************/
+
+/****** Land and Water ********/
+
+#greenmap[primary_term="Waterfront/Riverside Park"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/waterfrontriversidepark.png);
+}
+
+#greenmap[primary_term="Water Feature"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/waterfeature.png);
+}
+
+#greenmap[primary_term="Wetlands"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/wetlands.png);
+}
+
+#greenmap[primary_term="Drinking Water Source"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/drinkingwatersource.png);
+}
+
+#greenmap[primary_term="Natural Corridor/Greenway"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/naturalcorridorgreenway.png);
+}
+
+#greenmap[primary_term="Geological Feature"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/geologicalfeature.png);
+}
+
+#greenmap[primary_term="Eco-Design/Planning Feature"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/ecodesignplanningfeature.png);
+}
+
+#greenmap[primary_term="Cleaned-Up/Rebuilt Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/cleaneduprebuiltsite.png);
+}
+
+#greenmap[primary_term="Future Redevelopment Space"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/futureredevelopmentspace.png);
+}
+
+#greenmap[primary_term="Eco Landscaping"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/ecolandscaping.png);
+}
+
+#greenmap[primary_term="Shaded Boulevard"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/shadedboulevard.png);
+}
+
 /** Placeholder **/
 
 #greenmap[primary_term=""] {
