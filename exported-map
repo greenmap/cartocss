@@ -202,6 +202,80 @@
    marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/cautionzone.png);
 }
 
+/****** Hazards and Challenges ********/
+
+#greenmap[primary_term="Blight Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/blightsite.png);
+}
+
+#greenmap[primary_term="Air Pollution"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/airpollution.png);
+}
+
+#greenmap[primary_term="Water Pollution Source"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/waterpollutionsource.png);
+}
+
+#greenmap[primary_term="Waste Dump"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/wastedump.png);
+}
+
+#greenmap[primary_term="Contaminated Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/contaminatedsite.png);
+}
+
+#greenmap[primary_term="Brownfield Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/brownfieldsite.png);
+}
+
+#greenmap[primary_term="Vulnerable Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/vulnerablesite.png);
+}
+
+#greenmap[primary_term="Habitat at Risk"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/habitatatrisk.png);
+}
+
+#greenmap[primary_term="Deforestation"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/deforestation.png);
+}
+
+#greenmap[primary_term="Climate Changed Area"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/climatechangedarea.png);
+}
+
+#greenmap[primary_term="Disaster Area"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/disasterarea.png);
+}
+
+#greenmap[primary_term="Abandoned Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/abandonedsite.png);
+}
+
+#greenmap[primary_term="Unhealthy Spot"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/unhealthyspot.png);
+}
+
+#greenmap[primary_term="Noise Pollution"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/noisepollution.png);
+}
+
+#greenmap[primary_term="Airport"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/airport.png);
+}
+
+#greenmap[primary_term="Oil/Gas Facility"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/oilgasfacility.png);
+}
+
+#greenmap[primary_term="Nuclear Facilities & Waste Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/nuclearfacilitieswasteite.png);
+}
+
+#greenmap[primary_term="Mining Site"] {
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/miningsite.png);
+}
+
 /** Placeholder **/
 
 #greenmap[primary_term=""] {
