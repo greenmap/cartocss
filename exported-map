@@ -269,7 +269,7 @@
 }
 
 #greenmap[primary_term="Nuclear Facilities & Waste Site"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/nuclearfacilitieswasteite.png);
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/nuclearfacilitiesandwastesite.png);
 }
 
 #greenmap[primary_term="Mining Site"] {
@@ -315,7 +315,7 @@
 }
 
 #greenmap[primary_term="Future Redevelopment Space"] {
-   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/futureredevelopmentspace.png);
+   marker-file: url(http://www.opengreenmap.org/sites/all/modules/patched/gmap/markers/ggm/futureredevelopment.png);
 }
 
 #greenmap[primary_term="Eco Landscaping"] {
